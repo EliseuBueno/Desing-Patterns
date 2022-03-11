@@ -1,0 +1,1 @@
+{"version":3,"file":"product-stamp-decorator.js","sourceRoot":"","sources":["product-stamp-decorator.ts"],"names":[],"mappings":";;;AAAA,2DAAuD;AAEvD,MAAa,qBAAsB,SAAQ,oCAAgB;IAExD,OAAO;QACJ,OAAO,IAAI,CAAC,OAAO,CAAC,OAAO,EAAE,GAAG,cAAc,CAAC;IAClD,CAAC;IAED,QAAQ;QACL,OAAO,IAAI,CAAC,OAAO,CAAC,QAAQ,EAAE,GAAG,EAAE,CAAC;IACvC,CAAC;CACH;AATD,sDASC"}

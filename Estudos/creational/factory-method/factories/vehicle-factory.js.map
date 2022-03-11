@@ -1,0 +1,1 @@
+{"version":3,"file":"vehicle-factory.js","sourceRoot":"","sources":["vehicle-factory.ts"],"names":[],"mappings":";;;AAEA,MAAsB,cAAc;IAIjC,kDAAkD;IAClD,MAAM,CAAC,YAAoB,EAAE,WAAmB;QAC7C,MAAM,GAAG,GAAG,IAAI,CAAC,UAAU,CAAC,WAAW,CAAC,CAAC;QACzC,GAAG,CAAC,MAAM,CAAC,YAAY,CAAC,CAAC;QACzB,OAAO,GAAG,CAAC;IACd,CAAC;CACH;AAVD,wCAUC"}
